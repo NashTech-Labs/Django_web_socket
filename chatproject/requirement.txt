@@ -1,0 +1,7 @@
+python3
+pip 
+psycopg2 
+install Django
+channels==3.0.4
+channels-redis
+websoketking
